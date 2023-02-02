@@ -16,7 +16,7 @@ class Kichkiro:
 			"Other tools" 	: ["git", ]
 		}	
 
-	def create(self, self.name, self.skills) -> code:
+	def create(self) -> code:
 
 			⬇️ ⬇️ ⬇️
 
