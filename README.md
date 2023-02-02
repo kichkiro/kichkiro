@@ -1,4 +1,14 @@
-### Hi there 👋
+
+```python
+
+class Kichkiro:
+	"""
+	This class represents a programmer...
+	"""
+	def __init__(self) -> None:
+		self.name = "Kirill Chkirov"
+		self.employ = "Student at 42 Firenze Luiss"	
+```
 
 <!--
 **kichkiro/kichkiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
