@@ -11,8 +11,8 @@ class Kichkiro:
 		self.language = {"it_IT", "ru_RU", "en_US"}
 		self.skills = {
 			"Languages" 	: ["c", "python", ],
-			"Editors" 		: ["vscode", "vim", ],
-			"Os" 			: ["linux -> ubuntu", "windows -> wsl2", ],
+			"Editors" 	: ["vscode", "vim", ],
+			"Os" 		: ["linux -> ubuntu", "windows -> wsl2", ],
 			"Other tools" 	: ["git", ]
 		}	
 ```
