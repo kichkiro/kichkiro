@@ -18,7 +18,7 @@ class Kichkiro:
 
 	def create(self) -> code:
 
-			⬇️ ⬇️ ⬇️
+		⬇️	⬇️	⬇️
 
 ```
 
