@@ -15,6 +15,11 @@ class Kichkiro:
 			"Os" 		: ["linux -> ubuntu", "windows -> wsl2", ],
 			"Other tools" 	: ["git", ]
 		}	
+
+	def create(self, self.name, self.skills) -> code:
+
+			⬇️ ⬇️ ⬇️
+
 ```
 
 <!--
