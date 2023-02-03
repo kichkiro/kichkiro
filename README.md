@@ -8,7 +8,7 @@ class Kichkiro:
 	def __init__(self) -> None:
 		self.name = "Kirill Chkirov"
 		self.employ = "Student at 42 Firenze Luiss"
-		self.language = ["it_IT", "ru_RU", "en_US"]
+		self.language = ["it", "ru", "en"]
 		self.skills = {
 			"Languages" 	: ["c", "python", ],
 			"Editors" 	: ["vscode", "vim", ],
