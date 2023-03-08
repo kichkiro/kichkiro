@@ -3,7 +3,7 @@
 
 class Kichkiro:
 	"""
-	This class represents a programming student...
+	This class represents a programming student --->
 	"""
 	def __init__(self) -> None:
 		self.name	= "Kirill Chkirov"
@@ -12,8 +12,8 @@ class Kichkiro:
 		self.skills 	= {
 			"Languages" 	: ["c", "python", ],
 			"Editors" 	: ["vscode", "vim", ],
-			"Os" 		: ["linux -> ubuntu", "windows -> wsl2", ],
-			"Other tools" 	: ["git", ]
+			"Os" 		: {"linux" : ["ubuntu", "parrot_os", ], "windows" : ["11", "wsl2", ], },
+			"Other tools" 	: ["git", ],
 		}	
 
 	def create(self) -> code:
