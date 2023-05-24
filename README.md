@@ -5,5 +5,43 @@
 |:-:|:-:|
 </div>
 
-
 --------------
+
+<pre>
+  ┌──┤ WHOAMI ├────────────▰▰▰
+  │
+  ├─▣ Student at 42 Florence
+  ├─▣ Languages -> C, C++, Python
+  ├─▣ Interest  -> Networking, CyberSecurity, PenTesting.
+  │
+  └───────────────────────────────▰▰▰
+
+  ┌──┤ 42 PROJECTS ├───────▰▰▰
+  |
+  │──────◈ Common Core
+  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/0-libft">Libft</a>
+  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/1-born2beroot">Born2beRoot</a>
+  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/1-ft_printf">ft_printf</a>
+  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/1-get_next_line">get_next_line</a>
+  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/2-fdf">FdF</a>
+  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/2-minitalk">minitalk</a>
+  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/2-push_swap">push_swap</a>
+  ├─◈ <a href="https://github.com/kichkiro/minishell/tree/ffa6bbfea21015e019a7c7cbcd02ce83cbbbb1df">minishell</a>
+  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/3-philosophers">Philosophers</a>
+  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/4-NetPractice">NetPractice</a>
+  ├─◈ <a href="https://github.com/kichkiro/miniRT/tree/3ea3f512a50bb17c22af7aae6d26808c98140dac">miniRT</a>
+  │
+  |──────◈ Tester 
+  |─◈ <a href="https://github.com/kichkiro/philosophers_tester">philosophers_tester</a>
+  |─◈ <a href="https://github.com/kichkiro/minishell_tester">minishell_tester</a>
+  |
+  └───────────────────────────────▰▰▰
+
+  ┌──┤ OTHER PROJECTS ├─────▰▰▰
+  │
+  ├─◈ <a href="https://github.com/kichkiro/date_corrector">date_corrector</a>
+  ├─◈ <a href="https://github.com/kichkiro/bidoo_free_bets">bidoo_free_bets</a>
+  │
+  └───────────────────────────────▰▰▰
+</pre>
+
