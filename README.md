@@ -10,15 +10,20 @@
 <pre>
   ┌──┤ WHOAMI ├────────────▰▰▰
   │
-  ├─▣ Student at 42 Florence
-  ├─▣ Languages -> C, C++, Python
-  ├─▣ Interest  -> Networking, CyberSecurity, PenTesting.
+  |─▣ Username  ---> Kichkiro
+  |─▣ Email     ---> kichkiro@student.42firenze.it
+  ├─▣ Status    ---> Student at 42 Florence
+  ├─▣ Interest  ---> Networking, CyberSecurity, PenTesting
+  ├─▣ Languages ---> C, C++, Python
+  ├─▣ OS        ---> Linux, Windows
+  ├─▣ Tools     ---> Vim, VScode, Git, Jupyter Notebook, (...)
+  ├─▣ Cert.     ---> Google IT Support Certificate
   │
   └───────────────────────────────▰▰▰
 
   ┌──┤ 42 PROJECTS ├───────▰▰▰
   |
-  │──────◈ Common Core
+  │──────◈ 42cursus
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/0-libft">Libft</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/1-born2beroot">Born2beRoot</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/1-ft_printf">ft_printf</a>
@@ -30,6 +35,12 @@
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/3-philosophers">Philosophers</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/4-NetPractice">NetPractice</a>
   ├─◈ <a href="https://github.com/kichkiro/miniRT/tree/3ea3f512a50bb17c22af7aae6d26808c98140dac">miniRT</a>
+  |
+  |──────◈ Piscine
+  |─◈ <a href="https://github.com/kichkiro/42/tree/main/discovery_piscine">discovery_piscine</a>
+  |
+  |──────◈ Workshops
+  |─◈ <a href="https://github.com/kichkiro/42/tree/main/workshops/machine_learning">machine_learning</a>
   │
   |──────◈ Tester 
   |─◈ <a href="https://github.com/kichkiro/philosophers_tester">philosophers_tester</a>
@@ -45,3 +56,4 @@
   └───────────────────────────────▰▰▰
 </pre>
 
+---------------
