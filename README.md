@@ -34,8 +34,8 @@
   ├─◈ <a href="https://github.com/kichkiro/miniRT/tree/3ea3f512a50bb17c22af7aae6d26808c98140dac">miniRT</a>
   │
   ├──────◈ Piscine
-  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/discovery_piscine">discovery_piscine</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/c_piscine">c_piscine</a>
+  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/discovery_piscine">discovery_piscine</a>
   │
   ├──────◈ Workshops
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/workshops/machine_learning">machine_learning</a>
