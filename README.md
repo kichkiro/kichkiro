@@ -18,9 +18,9 @@
   │
   └───────────────────────────────▰▰▰
 
-  ┌──┤ 42 PROJECTS ├───────▰▰▰
+  ┌──┤ <a href="https://github.com/kichkiro/42">42 PROJECTS</a> ├───────▰▰▰
   │
-  ├──────◈ 42cursus
+  ├──────◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus">42cursus</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/0-libft">Libft</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/1-born2beroot">Born2beRoot</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/1-ft_printf">ft_printf</a>
@@ -33,15 +33,15 @@
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/4-NetPractice">NetPractice</a>
   ├─◈ <a href="https://github.com/kichkiro/miniRT/tree/3ea3f512a50bb17c22af7aae6d26808c98140dac">miniRT</a>
   │
-  ├──────◈ Piscines
+  ├──────◈ <a href="https://github.com/kichkiro/42/tree/main/piscines">Piscines</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/piscines/c_piscine">c_piscine</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/piscines/discovery_piscine">discovery_piscine</a>
   │
-  ├──────◈ Testers
+  ├──────◈ <a href="https://github.com/kichkiro/42/tree/main/testers">Testers</a>
   ├─◈ <a href="https://github.com/kichkiro/philosophers_tester/tree/eba46a4f8de7955c12971b21ed14ee4a42028669">philosophers_tester</a>
   ├─◈ <a href="https://github.com/kichkiro/minishell_tester/tree/e12507e2724b5cffa483f1a6775097e5508a9b30">minishell_tester</a>
   │
-  ├──────◈ Workshops
+  ├──────◈ <a href="https://github.com/kichkiro/42/tree/main/workshops">Workshops</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/workshops/machine_learning">machine_learning</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/workshops/pycon_beginners_day">pycon_beginners_day</a>
   │
