@@ -33,17 +33,17 @@
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/4-NetPractice">NetPractice</a>
   ├─◈ <a href="https://github.com/kichkiro/miniRT/tree/3ea3f512a50bb17c22af7aae6d26808c98140dac">miniRT</a>
   │
-  ├──────◈ Piscine
-  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/c_piscine">c_piscine</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/discovery_piscine">discovery_piscine</a>
+  ├──────◈ Piscines
+  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/piscines/c_piscine">c_piscine</a>
+  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/piscines/discovery_piscine">discovery_piscine</a>
+  │
+  ├──────◈ Testers
+  ├─◈ <a href="https://github.com/kichkiro/philosophers_tester/tree/eba46a4f8de7955c12971b21ed14ee4a42028669">philosophers_tester</a>
+  ├─◈ <a href="https://github.com/kichkiro/minishell_tester/tree/e12507e2724b5cffa483f1a6775097e5508a9b30">minishell_tester</a>
   │
   ├──────◈ Workshops
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/workshops/machine_learning">machine_learning</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/workshops/pycon_beginners_day">pycon_beginners_day</a>
-  │
-  ├──────◈ Tester 
-  ├─◈ <a href="https://github.com/kichkiro/philosophers_tester">philosophers_tester</a>
-  ├─◈ <a href="https://github.com/kichkiro/minishell_tester">minishell_tester</a>
   │
   └───────────────────────────────▰▰▰
 
