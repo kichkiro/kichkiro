@@ -15,9 +15,6 @@
   ├─▣ Status    -> Student at 42 Florence
   ├─▣ Interest  -> Networking, CyberSecurity, PenTesting
   ├─▣ Languages -> C, C++, Python
-  ├─▣ OS        -> Linux, Windows
-  ├─▣ Tools     -> Vim, VScode, Git, Jupyter Notebook, (...)
-  ├─▣ Cert.     -> Google IT Support Certificate
   │
   └───────────────────────────────▰▰▰
 
@@ -41,6 +38,7 @@
   │
   ├──────◈ Workshops
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/workshops/machine_learning">machine_learning</a>
+  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/workshops/pycon_beginners_day">pycon_beginners_day</a>
   │
   |──────◈ Tester 
   ├─◈ <a href="https://github.com/kichkiro/philosophers_tester">philosophers_tester</a>
