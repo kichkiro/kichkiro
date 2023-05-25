@@ -10,11 +10,11 @@
 <pre>
   ┌──┤ WHOAMI ├────────────▰▰▰
   │
-  ├─▣ Username  -> Kichkiro
+  ├─▣ Username  -> kichkiro
   ├─▣ Email     -> kichkiro@student.42firenze.it
   ├─▣ Status    -> Student at 42 Florence
   ├─▣ Interest  -> Networking, CyberSecurity, PenTesting
-  ├─▣ Languages -> C, C++, Python
+  ├─▣ Languages -> C, Python
   │
   └───────────────────────────────▰▰▰
 
@@ -35,12 +35,13 @@
   │
   ├──────◈ Piscine
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/discovery_piscine">discovery_piscine</a>
+  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/c_piscine">c_piscine</a>
   │
   ├──────◈ Workshops
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/workshops/machine_learning">machine_learning</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/workshops/pycon_beginners_day">pycon_beginners_day</a>
   │
-  |──────◈ Tester 
+  ├──────◈ Tester 
   ├─◈ <a href="https://github.com/kichkiro/philosophers_tester">philosophers_tester</a>
   ├─◈ <a href="https://github.com/kichkiro/minishell_tester">minishell_tester</a>
   │
