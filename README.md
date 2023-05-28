@@ -50,6 +50,7 @@
   │
   ├─◈ <a href="https://github.com/kichkiro/date_corrector">date_corrector</a>
   ├─◈ <a href="https://github.com/kichkiro/bidoo_free_bets">bidoo_free_bets</a>
+  ├─◈ <a href="https://github.com/kichkiro/python_socket">python_socket</a>
   │
   └───────────────────────────────▰▰▰
 </pre>
