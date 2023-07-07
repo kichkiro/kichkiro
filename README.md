@@ -46,6 +46,13 @@
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/workshops/pycon_beginners_day">pycon_beginners_day</a>
   │
   └───────────────────────────────▰▰▰
+  
+  ┌──┤ <a href="https://github.com/kichkiro/HTB">HTB</a> ├───────▰▰▰
+  │
+  ├──────◈ <a href="https://github.com/kichkiro/HTB/tree/main/machines">Machines</a>
+  ├─◈ <a href="https://github.com/kichkiro/HTB/tree/main/machines/pilgrimage">Pilgrimage</a>
+  │
+  └───────────────────────────────▰▰▰
 
   ┌──┤ OTHER PROJECTS ├─────▰▰▰
   │
@@ -54,6 +61,7 @@
   ├─◈ <a href="https://github.com/kichkiro/python_socket">python_socket</a>
   │
   └───────────────────────────────▰▰▰
+
 </pre>
 
 ---------------
