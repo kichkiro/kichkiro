@@ -50,7 +50,7 @@
   ┌──┤ <a href="https://github.com/kichkiro/HTB">HTB</a> ├───────▰▰▰
   │
   ├──────◈ <a href="https://github.com/kichkiro/HTB/tree/main/machines">Machines</a>
-  ├─◈ <a href="https://github.com/kichkiro/HTB/tree/main/machines/pilgrimage">Pilgrimage</a>
+  ├─◈ <a href="https://github.com/kichkiro/HTB/tree/main/machines/01_pilgrimage">Pilgrimage</a>
   │
   └───────────────────────────────▰▰▰
 
