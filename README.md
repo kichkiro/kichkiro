@@ -13,7 +13,7 @@
   ├─▣ Username  -> kichkiro
   ├─▣ Email     -> kichkiro@student.42firenze.it
   ├─▣ Status    -> Student at 42 Florence
-  ├─▣ Languages -> C, Python
+  ├─▣ Languages -> C, C++, Python
   │
   └───────────────────────────────▰▰▰
 
