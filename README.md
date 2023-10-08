@@ -8,15 +8,6 @@
 --------------
 
 <pre>
-  ┌──┤ WHOAMI ├────────────▰▰▰
-  │
-  ├─▣ Username  -> kichkiro
-  ├─▣ Email     -> kichkiro@student.42firenze.it
-  ├─▣ Status    -> Student at 42 Florence
-  ├─▣ Languages -> C, C++, Python
-  │
-  └───────────────────────────────▰▰▰
-
   ┌──┤ <a href="https://github.com/kichkiro/42">42 PROJECTS</a> ├───────▰▰▰
   │
   ├──────◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus">42cursus</a>
