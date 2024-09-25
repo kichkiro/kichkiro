@@ -11,11 +11,11 @@
   ┌──┤ <a href="https://github.com/kichkiro/42">42 PROJECTS</a> ├───────▰▰▰
   │
   ├──────◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus">42cursus</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/libft">Libft</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/Born2beRoot">Born2beRoot</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/ft_printf">ft_printf</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/get_next_line">get_next_line</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/FdF">FdF</a>
+  ├─◈ <a href="https://github.com/kichkiro/libft">Libft</a>
+  ├─◈ <a href="https://github.com/kichkiro/Born2beRoot">Born2beRoot</a>
+  ├─◈ <a href="https://github.com/kichkiro/ft_printf">ft_printf</a>
+  ├─◈ <a href="https://github.com/kichkiro/get_next_line">get_next_line</a>
+  ├─◈ <a href="https://github.com/kichkiro/FdF">FdF</a>
   ├─◈ <a href="https://github.com/kichkiro/minitalk">minitalk</a>
   ├─◈ <a href="https://github.com/kichkiro/push_swap">push_swap</a>
   ├─◈ <a href="https://github.com/kichkiro/minishell">minishell</a>
