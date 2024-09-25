@@ -11,21 +11,21 @@
   ┌──┤ <a href="https://github.com/kichkiro/42">42 PROJECTS</a> ├───────▰▰▰
   │
   ├──────◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus">42cursus</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/0-libft">Libft</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/1-born2beroot">Born2beRoot</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/1-ft_printf">ft_printf</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/1-get_next_line">get_next_line</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/2-fdf">FdF</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/2-minitalk">minitalk</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/2-push_swap">push_swap</a>
+  ├─◈ <a href="https://github.com/kichkiro/42/libft">Libft</a>
+  ├─◈ <a href="https://github.com/kichkiro/42/Born2beRoot">Born2beRoot</a>
+  ├─◈ <a href="https://github.com/kichkiro/42/ft_printf">ft_printf</a>
+  ├─◈ <a href="https://github.com/kichkiro/42/get_next_line">get_next_line</a>
+  ├─◈ <a href="https://github.com/kichkiro/42/FdF">FdF</a>
+  ├─◈ <a href="https://github.com/kichkiro/minitalk">minitalk</a>
+  ├─◈ <a href="https://github.com/kichkiro/push_swap">push_swap</a>
   ├─◈ <a href="https://github.com/kichkiro/minishell">minishell</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/3-philosophers">Philosophers</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/4-NetPractice">NetPractice</a>
+  ├─◈ <a href="https://github.com/kichkiro/Philosophers">Philosophers</a>
+  ├─◈ <a href="https://github.com/kichkiro/NetPractice">NetPractice</a>
   ├─◈ <a href="https://github.com/kichkiro/miniRT">miniRT</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/4-CPP-Modules_1">CPP-Modules_1</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/5-CPP-Modules_2">CPP-Modules_2</a>
-  ├─◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/5-Inception">Inception</a>
+  ├─◈ <a href="https://github.com/kichkiro/CPP-Modules">CPP-Modules</a>
+  ├─◈ <a href="https://github.com/kichkiro/Inception">Inception</a>
   ├─◈ <a href="https://github.com/kichkiro/webserv">webserv</a>
+  ├─◈ <a href="https://github.com/kichkiro/ft_transcendence">ft_transcendence</a>
   │
   ├──────◈ <a href="https://github.com/kichkiro/42/tree/main/piscines">Piscines</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/piscines/c_piscine">c_piscine</a>
