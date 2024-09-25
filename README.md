@@ -22,7 +22,7 @@
   ├─◈ <a href="https://github.com/kichkiro/minishell">minishell</a>
   ├─◈ <a href="https://github.com/kichkiro/miniRT">miniRT</a>
   ├─◈ <a href="https://github.com/kichkiro/NetPractice">NetPractice</a>
-  ├─◈ <a href="https://github.com/kichkiro/CPP-Modules">CPP-Modules</a>
+  ├─◈ <a href="https://github.com/kichkiro/CPP_Modules">CPP_Modules</a>
   ├─◈ <a href="https://github.com/kichkiro/Inception">Inception</a>
   ├─◈ <a href="https://github.com/kichkiro/webserv">webserv</a>
   ├─◈ <a href="https://github.com/kichkiro/ft_transcendence">ft_transcendence</a>
