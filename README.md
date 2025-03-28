@@ -8,9 +8,10 @@
 --------------
 
 <pre>
-  ┌──┤ <a href="https://github.com/kichkiro/42">42 PROJECTS</a> ├───────▰▰▰
+  ┌──┤ <a href="https://github.com/kichkiro/42">42 Network</a> ├───────▰▰▰
   │
-  ├──────◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus">42cursus</a>
+  ├─────────◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus">42cursus</a>
+  ├──────◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/Common-Core">Common Core</a>
   ├─◈ <a href="https://github.com/kichkiro/libft">Libft</a>
   ├─◈ <a href="https://github.com/kichkiro/Born2beRoot">Born2beRoot</a>
   ├─◈ <a href="https://github.com/kichkiro/ft_printf">ft_printf</a>
@@ -26,16 +27,18 @@
   ├─◈ <a href="https://github.com/kichkiro/Inception">Inception</a>
   ├─◈ <a href="https://github.com/kichkiro/webserv">webserv</a>
   ├─◈ <a href="https://github.com/kichkiro/ft_transcendence">ft_transcendence</a>
+  ├──────◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/Advanced">Advanced</a>
+  ├─◈ <a href="https://github.com/kichkiro/ft_ping">ft_ping</a>
   │
-  ├──────◈ <a href="https://github.com/kichkiro/42/tree/main/piscines">Piscines</a>
+  ├─────────◈ <a href="https://github.com/kichkiro/42/tree/main/piscines">Piscines</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/piscines/c_piscine">c_piscine</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/piscines/discovery_piscine">discovery_piscine</a>
   │
-  ├──────◈ <a href="https://github.com/kichkiro/42/tree/main/testers">Testers</a>
+  ├─────────◈ <a href="https://github.com/kichkiro/42/tree/main/testers">Testers</a>
   ├─◈ <a href="https://github.com/kichkiro/philosophers_tester">philosophers_tester</a>
   ├─◈ <a href="https://github.com/kichkiro/minishell_tester">minishell_tester</a>
   │
-  ├──────◈ <a href="https://github.com/kichkiro/42/tree/main/workshops">Workshops</a>
+  ├─────────◈ <a href="https://github.com/kichkiro/42/tree/main/workshops">Workshops</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/workshops/machine_learning">machine_learning</a>
   ├─◈ <a href="https://github.com/kichkiro/42/tree/main/workshops/pycon_beginners_day">pycon_beginners_day</a>
   │
