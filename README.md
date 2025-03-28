@@ -10,8 +10,8 @@
 <pre>
   ┌──┤ <a href="https://github.com/kichkiro/42">42 Network</a> ├───────▰▰▰
   │
-  ├───◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus">42cursus</a>
-  ├──◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/Common-Core">Common Core</a>
+  ├──────◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus">42cursus</a>
+  ├───◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/Common-Core">Common Core</a>
   ├─◈ <a href="https://github.com/kichkiro/libft">Libft</a>
   ├─◈ <a href="https://github.com/kichkiro/Born2beRoot">Born2beRoot</a>
   ├─◈ <a href="https://github.com/kichkiro/ft_printf">ft_printf</a>
@@ -27,7 +27,7 @@
   ├─◈ <a href="https://github.com/kichkiro/Inception">Inception</a>
   ├─◈ <a href="https://github.com/kichkiro/webserv">webserv</a>
   ├─◈ <a href="https://github.com/kichkiro/ft_transcendence">ft_transcendence</a>
-  ├──◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/Advanced">Advanced</a>
+  ├───◈ <a href="https://github.com/kichkiro/42/tree/main/42cursus/Advanced">Advanced</a>
   ├─◈ <a href="https://github.com/kichkiro/ft_ping">ft_ping</a>
   │
   ├───◈ <a href="https://github.com/kichkiro/42/tree/main/piscines">Piscines</a>
