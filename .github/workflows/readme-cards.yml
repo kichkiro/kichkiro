@@ -21,7 +21,7 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&theme=github_dark&show_icons=true&rank_icon=github&border_color=0d1117&count_private=true&include_all_commits=true
-          path: assets/github-stats.svg
+          path: assets/locals/kichkiro/kichkiro_github-stats.svg
           token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate top languages card
@@ -29,13 +29,13 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=github_dark&langs_count=8&border_color=0d1117&hide=makefile
-          path: assets/top-langs.svg
+          path: assets/locals/kichkiro/kichkiro_top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-stats.svg assets/top-langs.svg
+          git add assets/locals/kichkiro/kichkiro_github-stats.svg assets/locals/kichkiro/kichkiro_top-langs.svg
           git commit -m "chore: update README stats cards" || exit 0
           git push

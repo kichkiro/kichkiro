@@ -1,6 +1,6 @@
 <div align="center">
 
-| [![kichkiro's GitHub stats](./assets/github-stats.svg)](https://github.com/kichkiro?tab=repositories) | [![kichkiro's most used languages](./assets/top-langs.svg)](https://github.com/kichkiro?tab=repositories) |
+| [![kichkiro's GitHub stats](./assets/locals/kichkiro/kichkiro_github-stats.svg)](https://github.com/kichkiro?tab=repositories) | [![kichkiro's most used languages](./assets/locals/kichkiro/kichkiro_top-langs.svg)](https://github.com/kichkiro?tab=repositories) |
 |:-:|:-:|
 
 </div>
@@ -15,7 +15,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/tf-nsx_deploy">
-        <img src="./assets/banner_tf-deploy_nsx.png" alt="tf-nsx_deploy" width="100%"/>
+        <img src="./assets/banners/banner_tf-deploy_nsx.png" alt="tf-nsx_deploy" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -39,7 +39,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/libft">
-        <img src="./assets/banner_libft.jpg" alt="Libft" width="100%"/>
+        <img src="./assets/banners/banner_libft.jpg" alt="Libft" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -50,7 +50,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/Born2beRoot">
-        <img src="./assets/banner_borntoberoot.jpg" alt="Born2beRoot" width="100%"/>
+        <img src="./assets/banners/banner_borntoberoot.jpg" alt="Born2beRoot" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -61,7 +61,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/ft_printf">
-        <img src="./assets/banner_ft_printf.jpg" alt="ft_printf" width="100%"/>
+        <img src="./assets/banners/banner_ft_printf.jpg" alt="ft_printf" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -72,7 +72,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/get_next_line">
-        <img src="./assets/banner_get_next_line.jpg" alt="get_next_line" width="100%"/>
+        <img src="./assets/banners/banner_get_next_line.jpg" alt="get_next_line" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -83,7 +83,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/push_swap">
-        <img src="./assets/banner_push_swap.png" alt="push_swap" width="100%"/>
+        <img src="./assets/banners/banner_push_swap.jpg" alt="push_swap" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -94,7 +94,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/minitalk">
-        <img src="./assets/banner_minitalk.png" alt="minitalk" width="100%"/>
+        <img src="./assets/banners/banner_minitalk.png" alt="minitalk" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -105,7 +105,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/FdF">
-        <img src="./assets/banner_fdf.png" alt="FdF" width="100%"/>
+        <img src="./assets/banners/banner_fdf.jpg" alt="FdF" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -116,7 +116,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/Philosophers">
-        <img src="./assets/banner_philosophers.png" alt="Philosophers" width="100%"/>
+        <img src="./assets/banners/banner_philosophers.jpeg" alt="Philosophers" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -127,7 +127,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/minishell">
-        <img src="./assets/banner_minishell.png" alt="minishell" width="100%"/>
+        <img src="./assets/banners/banner_minishell.jpg" alt="minishell" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -138,7 +138,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/miniRT">
-        <img src="./assets/banner_minirt.png" alt="miniRT" width="100%"/>
+        <img src="./assets/banners/banner_minirt.png" alt="miniRT" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -149,7 +149,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/NetPractice">
-        <img src="./assets/banner_netpractice.png" alt="NetPractice" width="100%"/>
+        <img src="./assets/banners/banner_netpractice.jpg" alt="NetPractice" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -160,7 +160,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/CPP_Modules">
-        <img src="./assets/banner_cpp_modules.jpg" alt="CPP_Modules" width="100%"/>
+        <img src="./assets/banners/banner_cpp_modules.jpg" alt="CPP_Modules" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -171,7 +171,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/Inception">
-        <img src="./assets/banner_inception.jpg" alt="Inception" width="100%"/>
+        <img src="./assets/banners/banner_inception.jpg" alt="Inception" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -182,7 +182,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/webserv">
-        <img src="./assets/banner_webserv.png" alt="webserv" width="100%"/>
+        <img src="./assets/banners/banner_webserv.png" alt="webserv" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -193,7 +193,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/ft_transcendence">
-        <img src="./assets/banner_ft-transcendence.jpg" alt="ft_transcendence" width="100%"/>
+        <img src="./assets/banners/banner_ft-transcendence.jpg" alt="ft_transcendence" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -209,7 +209,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/ft_ping">
-        <img src="./assets/banner_ft_ping.png" alt="ft_ping" width="100%"/>
+        <img src="./assets/banners/banner_ft_ping.png" alt="ft_ping" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -225,7 +225,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/42/tree/main/piscines/c_piscine">
-        <img src="./assets/42_logo.jpg" alt="c_piscine" width="100%"/>
+        <img src="./assets/banners/banner_42.jpg" alt="c_piscine" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -236,7 +236,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/42/tree/main/piscines/discovery_piscine">
-        <img src="./assets/42_logo.jpg" alt="discovery_piscine" width="100%"/>
+        <img src="./assets/banners/banner_42.jpg" alt="discovery_piscine" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -252,7 +252,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/philosophers_tester">
-        <img src="./assets/banner_philosophers_tester.png" alt="philosophers_tester" width="100%"/>
+        <img src="./assets/banners/banner_philosophers_tester.png" alt="philosophers_tester" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -263,7 +263,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/minishell_tester">
-        <img src="./assets/banner_minishell_tester.png" alt="minishell_tester" width="100%"/>
+        <img src="./assets/banners/banner_minishell_tester.png" alt="minishell_tester" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -279,7 +279,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/42/tree/main/workshops/machine_learning">
-        <img src="./assets/42_logo.jpg" alt="machine_learning" width="100%"/>
+        <img src="./assets/banners/banner_42.jpg" alt="machine_learning" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
@@ -290,7 +290,7 @@
   <tr>
     <td width="42%">
       <a href="https://github.com/kichkiro/42/tree/main/workshops/pycon_beginners_day">
-        <img src="./assets/42_logo.jpg" alt="pycon_beginners_day" width="100%"/>
+        <img src="./assets/banners/banner_42.jpg" alt="pycon_beginners_day" width="100%"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="left">
