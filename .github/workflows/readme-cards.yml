@@ -2,16 +2,36 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *" # ogni giorno alle 03:00 UTC
-  push:
-    branches: [main]
+    # GitHub cron is UTC only; these two cover 23:00 Europe/Rome across DST
+    # (21:00 UTC = 23:00 CEST in summer, 22:00 UTC = 23:00 CET in winter).
+    # The "gate" job below ensures the build runs only when it is 23:00 in Rome.
+    - cron: "0 21 * * *"
+    - cron: "0 22 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.check.outputs.run }}
+    steps:
+      - id: check
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          elif [ "$(TZ=Europe/Rome date +%H)" = "23" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Not 23:00 in Rome ($(TZ=Europe/Rome date +%H:%M)); skipping."
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
   build:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
