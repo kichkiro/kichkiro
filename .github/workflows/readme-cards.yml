@@ -48,7 +48,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=github_dark&langs_count=8&border_color=0d1117&hide=makefile,jupyter%20notebook
+          options: username=${{ github.repository_owner }}&layout=compact&theme=github_dark&langs_count=8&border_color=0d1117&hide=makefile,jupyter%20notebook,html,css,javascript
           path: assets/locals/kichkiro/kichkiro_top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
