@@ -7,6 +7,20 @@
 
 --------------
 
+<div align="center">
+
+### My Projects
+
+<a href="https://github.com/kichkiro/tf-nsx_deploy">
+  <img src="./assets/banner_tf-deploy_nsx.png" alt="tf-nsx_deploy" width="640"/>
+</a>
+
+<b><a href="https://github.com/kichkiro/tf-nsx_deploy">tf-nsx_deploy</a></b> — Terraform project for automated deployment of VMware NSX infrastructure, organized in sequential stages for a controlled and repeatable provisioning workflow.
+
+</div>
+
+--------------
+
 <pre>
   ┌──┤ <a href="https://github.com/kichkiro/42">42 Network</a> ├───────▰▰▰
   │
