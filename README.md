@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### My Projects
+### Projects
 
 <table>
   <tr>
