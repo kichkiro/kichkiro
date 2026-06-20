@@ -19,7 +19,7 @@
       </a>
     </td>
     <td width="67%" valign="middle" align="left">
-      <b><a href="https://github.com/kichkiro/infra-nsx-deploy">tf-nsx_deploy</a></b><br/><br/>
+      <b><a href="https://github.com/kichkiro/infra-nsx-deploy">infra-nsx-deploy</a></b><br/><br/>
       Terraform project for automated deployment of VMware NSX infrastructure, organized in sequential stages for a controlled and repeatable provisioning workflow.
     </td>
   </tr>
