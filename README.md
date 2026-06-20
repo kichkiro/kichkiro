@@ -9,17 +9,17 @@
 
 <div align="center">
 
-### Projects
+### IaC
 
 <table>
   <tr>
     <td width="33%">
-      <a href="https://github.com/kichkiro/tf-nsx_deploy">
-        <img src="./assets/banners/banner_tf-deploy_nsx.png" alt="tf-nsx_deploy" width="100%"/>
+      <a href="https://github.com/kichkiro/infra-nsx-deploy">
+        <img src="./assets/banners/banner_infra-nsx-deploy.png" alt="infra-nsx-deploy" width="100%"/>
       </a>
     </td>
     <td width="67%" valign="middle" align="left">
-      <b><a href="https://github.com/kichkiro/tf-nsx_deploy">tf-nsx_deploy</a></b><br/><br/>
+      <b><a href="https://github.com/kichkiro/infra-nsx-deploy">tf-nsx_deploy</a></b><br/><br/>
       Terraform project for automated deployment of VMware NSX infrastructure, organized in sequential stages for a controlled and repeatable provisioning workflow.
     </td>
   </tr>
